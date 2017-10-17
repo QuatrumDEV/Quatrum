@@ -1,0 +1,2 @@
+debian/bin/quatrumd usr/bin
+src/quatrumd usr/lib/quatrum
