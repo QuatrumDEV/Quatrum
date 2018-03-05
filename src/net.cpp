@@ -1132,7 +1132,7 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"Quatrum-dns-seed", "quatrumcoin.com"}
+    {"Quatrum-dns-seed", "80.211.128.215"}
 };
 
 void ThreadDNSAddressSeed(void* parg)
